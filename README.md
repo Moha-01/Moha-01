@@ -25,6 +25,10 @@
 
 ![PSU](https://img.shields.io/badge/bequiet!-System_Power_9_600W-333333?style=for-the-badge&logo=bequiet&logoColor=white)
 
+![Cooler](https://img.shields.io/badge/Arctic-Liquid_Freezer_II_240-333333?style=for-the-badge&logo=arctic&logoColor=white)
+
+![SSD](https://img.shields.io/badge/Kingston-NV1_1TB-333333?style=for-the-badge&logo=kingston&logoColor=white)
+
 <br>
 
 # 📊 GitHub Stats:
