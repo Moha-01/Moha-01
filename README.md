@@ -1,7 +1,7 @@
 # 💫 Hi, Nice to have you here. [![](https://visitcount.itsvg.in/api?id=Moha-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼Working at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can speak 4 Languages ( Kurdi, Arabic, German and English ).<br>
-📘 Personal Tipp how to start Learning: ![SoloLearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white) & https://roadmap.sh/<br>
+📘 Personal Tipp how to start Learning: https://roadmap.sh/<br>
 
 ## 🌐 Socials:
 
@@ -15,9 +15,11 @@
 
 ## Private:
 
-![]()
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Corsair-Vengeance_16GB-DD0000?style=for-the-badge&logo=viper&logoColor=white) ![CASE](https://img.shields.io/badge/Corsair-Carbide_Spec-0D96D6?style=for-the-badge&logo=corsair&logoColor=white)
 
 ## Work:
+
+<br>
 
 # 📊 GitHub Stats:
 
