@@ -23,6 +23,8 @@
 
 ![CASE](https://img.shields.io/badge/InterTech-WIII_RGB-333333?style=for-the-badge&logo=intertech&logoColor=white)
 
+![PSU](https://img.shields.io/badge/bequiet!-System_Power_9_600W-333333?style=for-the-badge&logo=bequiet&logoColor=white)
+
 <br>
 
 # 📊 GitHub Stats:
