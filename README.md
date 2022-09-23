@@ -31,7 +31,7 @@
 
  <br>
 
-![CASE](https://img.shields.io/badge/InterTech-WIII-333333?style=for-the-badge&logo=intertech&logoColor=white)
+![CASE](https://img.shields.io/badge/InterTech-WIII_RGB-333333?style=for-the-badge&logo=intertech&logoColor=white)
 
  <br>
 
