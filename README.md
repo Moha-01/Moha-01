@@ -77,7 +77,16 @@
 
 # 📊 GitHub Stats:
 
-<div>
+<div style="
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+    max-width: 1000px;
+">
 
 ![](https://github-readme-stats.vercel.app/api?username=Moha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moha-01&theme=dark&hide_border=false)<br/>
