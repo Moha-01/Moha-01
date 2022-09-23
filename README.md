@@ -1,4 +1,4 @@
-# 💫 Hi, Nice to have you here.
+# 💫 Hi, Nice to have you here. [![](https://visitcount.itsvg.in/api?id=Moha-01&icon=0&color=0)](https://visitcount.itsvg.in)
 🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼 And work at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can speak 4 Languages ( Kurdi, Arabic, German and English ).<br>
 
 
@@ -20,7 +20,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moha-01&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Mohamedhaji01) 
