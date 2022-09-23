@@ -80,12 +80,9 @@
 <div style="
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 100%;
-    margin: 0 auto;
-    padding: 0 1rem;
-    max-width: 1000px;
 ">
 
 ![](https://github-readme-stats.vercel.app/api?username=Moha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
