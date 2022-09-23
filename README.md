@@ -15,23 +15,21 @@
 
 ## Private:
 
-CPU: ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
  <br>
 
-GPU: ![GPU](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
  <br>
 
-2x16 RAM: ![RAM](https://img.shields.io/badge/Patriot-Viper4_32GB-DD3200?style=for-the-badge&logo=patriot&logoColor=white)
+![RAM](https://img.shields.io/badge/Patriot-Viper4_32GB-DD3200?style=for-the-badge&logo=patriot&logoColor=white)
 
 <br>
 
-Motherboard: ![Motherboard](https://img.shields.io/badge/ASRock-Fatal1ty_B450-333333?style=for-the-badge&logo=asrock&logoColor=white)
+![Motherboard](https://img.shields.io/badge/ASRock-Fatal1ty_B450-333333?style=for-the-badge&logo=asrock&logoColor=white)
 
  <br>
-
-## Work:
 
 <br>
 
