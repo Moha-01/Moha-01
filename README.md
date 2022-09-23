@@ -79,7 +79,7 @@
 
 <div style="
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
     width: 100%;
