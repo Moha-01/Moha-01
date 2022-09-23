@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, Nice to have you here.<br><br><br>🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼 And work at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful<br>😄 Pronouns: he/him<br>⚡ Fun fact: <br>
+# 💫 Hi, Nice to have you here.
+🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼 And work at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful<br>😄 Pronouns: he/him<br>⚡ Fun fact: <br>
 
 
 ## 🌐 Socials:
