@@ -10,6 +10,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moeaclegend)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/moeaclegend)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hajimuhammed@gmail.com)
+[![WEB](https://img.shields.io/badge/WEB-%23000000.svg?logo=WEB&logoColor=white)](https://moha-01.github.io/)
 
 # 💻 Tech Stack:
 
