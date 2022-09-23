@@ -94,7 +94,7 @@
 
 ---
 
-## 💰 You can help me by Donating
+## 💰 You can spend me a Coffee
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Mohamedhaji01)
 
