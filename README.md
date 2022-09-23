@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hajimuhammed@gmail.com)
 [![WEB.de](https://img.shields.io/badge/WEB.de-%23404d59.svg?logo=mail&logoColor=%2361DAFB)](mailto:haji.m@web.de)
 
-# 💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
