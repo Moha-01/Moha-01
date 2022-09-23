@@ -15,7 +15,7 @@
 
 ## Private:
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Patriot-Viper4_32GB-DD3200?style=for-the-badge&logo=patriot&logoColor=white) ![CASE](https://img.shields.io/badge/ASRock-Fatal1ty_B450-333333?style=for-the-badge&logo=asrock&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![RAM](https://img.shields.io/badge/Patriot-Viper4_32GB-DD3200?style=for-the-badge&logo=patriot&logoColor=white) ![CASE](https://img.shields.io/badge/ASRock-Fatal1ty_B450_K4?style=for-the-badge&logo=asrock&logoColor=white) ![PSU](https://img.shields.io/badge/Seasonic-Focus_Plus_650W-FFD500?style=for-the-badge&logo=seasonic&logoColor=white) ![SSD](https://img.shields.io/badge/Samsung-970_EVO_Plus_500GB-008FC8?style=for-the-badge&logo=samsung&logoColor=white) ![HDD](https://img.shields.io/badge/Seagate-BarraCuda_2TB-0078D6?style=for-the-badge&logo=seagate&logoColor=white) ![MOBO](https://img.shields.io/badge/Seasonic-Focus_Plus_650W-FFD500?style=for-the-badge&logo=seasonic&logoColor=white)
 
 ## Work:
 
