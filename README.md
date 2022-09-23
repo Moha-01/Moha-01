@@ -59,6 +59,7 @@
 ![NotePad++](https://img.shields.io/badge/Notepad%2B%2B-007396?style=for-the-badge&logo=Notepad%2B%2B&logoColor=white)
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 # 💻🖱️ Hardware:
 
@@ -78,6 +79,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Moha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moha-01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&theme=dark&hide_border=false&layout=compact&langs_count=10)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
