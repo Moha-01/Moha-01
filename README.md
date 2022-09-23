@@ -7,6 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mad_moha01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-haji-518487194)
+[![SnapChat](https://img.shields.io/badge/SnapCHat-%fcfe0e.svg?logo=mail&logoColor=%2361DAFB)](https://www.snapchat.com/add/heronley?share_id=Cuw_rT_I110&locale=de-DE)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moeaclegend)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/moeaclegend)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hajimuhammed@gmail.com)
