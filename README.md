@@ -1,6 +1,6 @@
 # 💫 Hi, Nice to have you here. [![](https://visitcount.itsvg.in/api?id=Moha-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼Working at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can speak 4 Languages ( Kurdi, Arabic, German and English ).<br>
+🌱 I’m currently a Student at the DHBW-Mosbach for the Bachlor of Since in practical IT.<br>💼 Working at the Company n3k Informatik GmbH.<br>💬 You can ask me about anything, I am happy to help and would be much happier, that I could be helpful.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I can speak 4 Languages ( Kurdi, Arabic, German and English ).<br>
 📘 Personal Tipp how to start Learning: https://roadmap.sh/<br>
 
 ## 🌐 Socials:
