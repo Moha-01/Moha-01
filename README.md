@@ -29,6 +29,8 @@
 
 ![SSD](https://img.shields.io/badge/Kingston-NV1_1TB-333333?style=for-the-badge&logo=kingston&logoColor=white)
 
+![OS](https://img.shields.io/badge/Windows-10_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <br>
 
 # 📊 GitHub Stats:
