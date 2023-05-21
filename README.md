@@ -83,7 +83,21 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Moha-01&theme=dark&hide_border=false)
+<p align="center">
+  <a href="https://github.com/Moha-01">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moha-01&theme=transparent" />
+  </a>
+  <a href="https://github.com/Moha-01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moha-01&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Moha-01">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moha-01&theme=transparent" />
+  </a>
+  <a href="https://github.com/Moha-01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 ## 🏆 GitHub Trophies
