@@ -94,7 +94,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moha-01&theme=transparent" />
   </a>
   <a href="https://github.com/Moha-01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&langs_count=10&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
   </a>
 </p>
 <br>
