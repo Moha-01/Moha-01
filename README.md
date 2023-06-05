@@ -97,7 +97,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
