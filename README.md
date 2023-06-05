@@ -92,12 +92,12 @@
   </a>
   <a href="https://github.com/Moha-01">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moha-01&theme=transparent" />
-  </a>
+ 
 
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
 
-</p>
+
 <br>
 
 ## 🏆 GitHub Trophies
