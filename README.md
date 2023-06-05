@@ -94,10 +94,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moha-01&theme=transparent" />
  
 
-  
+  <div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
     
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moha-01&layout=compact)](https://github.com/Moha-01/github-readme-stats)
+    
+ </div>
 
 
 <br>
